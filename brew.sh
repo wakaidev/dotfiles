@@ -96,5 +96,29 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Installs Casks
+brew tap caskroom/cask
+
+## Apps I use
+brew cask install 1password
+brew cask install dash
+brew cask install homebrew/cask-versions/firefox-nightly # Nightly
+brew cask install google-chrome #Chrome
+brew cask install homebrew/cask-versions/google-chrome-canary # Chrome Canary
+brew cask install iterm2
+# brew cask install kap
+# brew cask install keycastr
+brew cask install mongodb-compass
+# brew cask install notion
+# brew cask install sketch
+# brew cask install skitch
+# brew cask install skype
+# brew cask install slack
+# brew cask install spotify
+# brew cask install textexpander
+brew cask install tower
+# brew cask install wechat
+# TODO: ADD MORE APPS
+
 # Remove outdated versions from the cellar.
 brew cleanup
