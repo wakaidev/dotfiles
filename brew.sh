@@ -118,6 +118,8 @@ brew cask install mongodb-compass
 # brew cask install textexpander
 brew cask install tower
 # brew cask install wechat
+brew cask install hammerspoon
+brew cask install karabiner-elements
 # TODO: ADD MORE APPS
 
 # Remove outdated versions from the cellar.
